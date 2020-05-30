@@ -1,0 +1,23 @@
+.btn {
+    width: 200px;
+    color: white!important;
+    height: 40px;
+    background-color: #000;
+    color: white;
+    text-align: center;
+    position: absolute;
+    text-decoration: none;
+    left: 50%;
+    top: 10%;
+    transform: translate3D(-50%, -50%, 0);
+    /* will-change: transform; */
+    z-index: 100;
+    cursor: pointer;
+    transition: .3s ease all;
+    border: 1px solid white;
+}
+
+.btn:hover {
+    background-color: #ffffff85;
+    color: white;
+}
