@@ -1,7 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Based On Video 
-### `https://www.youtube.com/watch?v=oajWj9i3Dic&feature=youtu.be`
+## Based On [Video](https://www.youtube.com/watch?v=oajWj9i3Dic&feature=youtu.be)
 
 In the project directory, you can run:
 
